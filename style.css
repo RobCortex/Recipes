@@ -1,0 +1,19 @@
+* { border: 5px solid red; }
+
+#recipes-list {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+img {
+	width: 50%;
+	height: 400px;
+	justify-self: center;
+}
+
+/*#recipes-list {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+} */
