@@ -1,9 +1,10 @@
 * { border: 5px solid red; }
 
-#recipes-list {
+body{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 }
 
 img {
